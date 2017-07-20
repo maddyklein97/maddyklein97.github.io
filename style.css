@@ -1,0 +1,46 @@
+
+body{
+	position: relative;
+	background: url(./img/hearts-bg.jpg);
+	background-size: cover;
+	background-repeat: none;
+	font-family: 'Noto Serif', serif;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+
+h1{
+	font-size: 8rem;
+	font-family: 'Dancing Script', cursive;
+	color: red;
+	margin: 0 auto;
+}
+
+h1, p{
+	color: #f0517a;
+}
+
+#thanks {
+	width: 100%}
+
+.container {
+	/*height: 90%;*/
+	padding: 4rem;
+	background: rgba(255, 255, 255, 0.9);
+}
+
+.row {
+	margin: 2rem 0;
+}
+
+footer{
+	background-color: white;
+	min-width: 100%;
+	padding: 1rem;
+	position: absolute;
+	bottom: 0;
+}
+
+footer p{
+	float: right;
+}
